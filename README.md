@@ -9,7 +9,7 @@
 
 # Laravel Passport
 
-This project is purely a Laravel passport project. None of this code in my own work, it is create purely to communicate and handle the authentication for this flutter project. [Flutter Oauth 2.0](https://github.com/BradDoesCode/flutter-Oauth2)
+This project is purely a Laravel passport project. None of this code in my own work, it is created purely to communicate and handle the authentication for this flutter project. [Flutter Oauth 2.0](https://github.com/BradDoesCode/flutter-Oauth2)
 
 ## About Laravel
 
